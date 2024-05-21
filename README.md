@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao perfil ph 🤎
 
-<!--
-**soPHi421/soPHi421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Sophia🥀
 
-Here are some ideas to get you started:
+ - Estudante da platoforma Alura
+ - Estou me desenvolvendo no Javascrist
+ - Utilizo esse perfil para mostrar me desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Vamos entrar nessa comigo 📫
+
+   00001073025548sp@al.educacao.sp.gov.br
+
+   ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRxMnc3b2N3Z3A4czU2bm41dDMwbzg5dW8xYnQwZWV6NTVtb2VvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StKiS6x698JAl9d6cx/giphy.gif)
